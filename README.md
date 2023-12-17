@@ -2,7 +2,7 @@
 Generate an encrypted password for Instagram (version 1)
 
 # Why you need version 1
-If version 1 is used, as of my confirmation:
+If version 1 is used, as of my check:
 
 You need a Version 1 encrypted password to log in or create a new account on a terminal that has never logged in or created a new account.
 
