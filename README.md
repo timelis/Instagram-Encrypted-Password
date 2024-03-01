@@ -1,4 +1,4 @@
-# whats is this?
+# What's this?
 Generate an encrypted password for Instagram (version 1)
 
 # Why you need version 1
@@ -8,3 +8,7 @@ You need a Version 1 encrypted password to log in or create a new account on a t
 
 # Important points
 The public key or key id may change. Please let me know if this code no longer works.
+
+# Contact
+Mail: info@lisxck.fyi
+Discord: ppop0635
