@@ -13,5 +13,4 @@ The public key or key id may change. Please let me know if this code no longer w
 A $30 donation to me will help you understand more about Instagram. I will share with you the knowledge I have, including how to find this public key.
 
 # Contact
-Mail: info@lisxck.fyi
-Discord: ppop0635
+Not accepted
