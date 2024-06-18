@@ -9,8 +9,5 @@ You need a Version 1 encrypted password to log in or create a new account on a t
 # Important points
 The public key or key id may change. Please let me know if this code no longer works.
 
-# Donation
-A $30 donation to me will help you understand more about Instagram. I will share with you the knowledge I have, including how to find this public key.
-
 # Contact
 Not accepted
